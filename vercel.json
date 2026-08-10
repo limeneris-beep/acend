@@ -1,6 +1,7 @@
 {
   "rewrites": [
     { "source": "/strata_vc_deck.html", "destination": "/strata_vc_deck.html" },
+    { "source": "/strata_pitch_deck_v3.pdf", "destination": "/strata_pitch_deck_v3.pdf" },
     { "source": "/strata-terminal.html", "destination": "/strata-terminal.html" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
